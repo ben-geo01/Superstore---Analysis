@@ -1,7 +1,7 @@
 # Superstore Sales Analysis
 ## Exploratory Data Analysis (EDA) and gaining insights
 
-Welcome to this project, where we analyze a retail dataset spanning **4 years**. The goal is to perform an in-depth analysis of sales trends, shipping durations, and customer behaviors, followed by **forecasting the next 7 days of sales**.
+Welcome to this project, where we analyze a retail dataset spanning **4 years**. The goal is to perform an in-depth analysis of sales trends, shipping durations, and customer behaviors.
 
 This notebook highlights key insights using **interactive visualizations and predictive modeling**. Let’s dive in! 📊  
 
